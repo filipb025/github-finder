@@ -1,6 +1,7 @@
-# Github Finder React App
+# Github Finder React Application
 
-![Github Finder Landing Page](https://prnt.sc/20t8y6c)
+LIVE DEMO: (https://github-finder-2548.netlify.app/)
+![Github Finder Landing Page](https://snipboard.io/6IeLR3.jpg)
 
 ## Usage
 
